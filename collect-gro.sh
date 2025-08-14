@@ -1,7 +1,7 @@
 !/bin/bash
 
 # Define the path to the configurations.dat file
-config_file="./configurations.dat"
+config_file="./configuration.dat"
 
 # Define the source directory containing the conf*.gro files
 source_dir="./windows_"
