@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Define the path to the configurations.dat file
 config_file="./configuration.dat"
